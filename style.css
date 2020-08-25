@@ -43,3 +43,12 @@
 		.intro.jpeg {
 			text-align: center;
 		}
+		
+		/* Purple */
+		.GoBack {
+			color: darkorchid;
+		}
+		.GoBack:hover {
+			background-color: 	#9932CC;
+			color: white;
+		}
